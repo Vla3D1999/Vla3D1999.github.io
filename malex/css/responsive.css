@@ -1,3 +1,8 @@
+@media all and (max-width:1024px){
+    .advantages{
+        top: 73%;
+    }
+}
 @media all and (max-width:768px){
 
     .nav-block {
