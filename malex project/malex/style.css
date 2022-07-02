@@ -85,11 +85,19 @@ header{
     justify-content: space-between;
     align-items: center;
 }
+.formserach-center div h3{
+    color: #fff;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 2rem;
+    font-family: 'Poppins';
+}
 .formserach-center div input{
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    width: 30%;
 }
 #search-btn i {
     position: absolute;

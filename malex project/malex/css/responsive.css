@@ -2,6 +2,9 @@
     .advantages{
         top: 73%;
     }
+    .formserach-center div input{
+        width: 50%;
+    }
 }
 @media all and (max-width:768px){
 
